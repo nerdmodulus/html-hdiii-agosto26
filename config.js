@@ -7,7 +7,7 @@ var CONFIG = {
   /* URL del Web App de Google Apps Script (termina en /exec).
      La obtienes al implementar el archivo apps-script/Codigo.gs.
      Mientras esté vacía, el módulo funciona en modo invitado. */
-  API: '',
+  API: 'https://script.google.com/macros/s/AKfycbwGkYj6h6Ch2CMx6ACSEvK1PU9GPFp8c70eBy780mvaLE55Xxd6aMFNvIohLieK6HqLWQ/exec',
 
   /* Planilla de curso */
   HOJA: 'Estudiantes',
